@@ -1,4 +1,4 @@
-### Olá eu sou o Tald👋
+### Olá eu sou o Taldo Mago👋
 
 - 🌱 Estudando Ciência da Computação
 - 📫 email: Eduardoirsantos@gmail.com
